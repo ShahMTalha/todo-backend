@@ -1,0 +1,10 @@
+Flask==1.1.4
+flask-cors
+Flask-Migrate==2.6.0
+Flask-Script
+Flask-SQLAlchemy
+SQLAlchemy
+python-dotenv
+psycopg2
+pytest
+requests
